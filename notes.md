@@ -13,6 +13,7 @@
 * props.X vs { x, x, x } is a stylistic choice. The latter looks more elegant imo.
 * "Don't solve problems before you have them" (on performance and a general rule of thumb)
 * Ternarys are common in React code for rendering despite being ugly and difficult to read
+* `<Link to='xxx' />` is the same as `[routerLink]`
 
 ## Open Questions
 1. How do services tie in? Custom Hooks?
